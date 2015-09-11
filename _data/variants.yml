@@ -617,11 +617,11 @@
 - url: http://2048alphabet.com/fibonacci/
   name: 2584 Fibonacci
   author: Misho M. Petkovic
-  
+
 - url: http://games.usvsth3m.com/2048/super-macaron-edition/
   name: Macarons
   author: Anna
-  
+
 - url: http://constantoduol.github.io/rgb/
   name: RGB All Cyan
   author: Constant Oduol
@@ -653,7 +653,7 @@
 - url: http://community.usvsth3m.com/2048/1-048-576-edition-3/
   name: 2048 - 1 048 576 Edition
   author: Lucas Naceri
-  
+
 - url: http://community.usvsth3m.com/2048/rainbow-edition-478/
   name: 2048 - Rainbow Edition
   author: Lucas Naceri
@@ -661,11 +661,11 @@
 - url: http://community.usvsth3m.com/2048/cie-lab-rainbow-edition/
   name: 2048 - Cie Lab Rainbow Edition
   author: Lucas Naceri
-  
+
 - url: http://community.usvsth3m.com/2048/cie-luv-rainbow-edition/
   name: 2048 - Cie Luv Rainbow Edition
   author: Lucas Naceri
-  
+
 - url: http://community.usvsth3m.com/2048/prime-numbers-edition-29/
   name: 2048 - Prime Numbers Edition
   author: Lucas Naceri
@@ -677,3 +677,7 @@
 - url: http://community.usvsth3m.com/2048/android-edition-29/
   name: 2048 - android version
   author: Saketh Dahagam
+
+- url: http://run26kimo.github.io/2048/
+  name: 2048 - from the start (來自星星的你)
+  author: run26kimo
