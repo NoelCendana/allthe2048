@@ -681,3 +681,7 @@
 - url: http://run26kimo.github.io/2048/
   name: 2048 - from the start (來自星星的你)
   author: run26kimo
+
+- url: https://play.google.com/store/apps/details?id=com.agandeev.matrix2048
+  name: Matrix 2048 for Android
+  author: Pavel Agandeev
