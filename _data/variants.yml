@@ -1,4 +1,4 @@
-- url: http://gabrielecirulli.github.io/2048/
+﻿- url: http://gabrielecirulli.github.io/2048/
   name: Original
   author: Gabriele Cirulli
 
@@ -689,3 +689,7 @@
 - url: http://2048money.com 
   name: 2048 For Money
   author: GamyTech
+
+- url: http://www.2048-3d.com/
+  name: 2048-3D Brain Training Game
+  author: Lateral, Inc
