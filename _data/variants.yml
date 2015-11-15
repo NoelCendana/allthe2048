@@ -1,4 +1,4 @@
-- url: http://gabrielecirulli.github.io/2048/
+﻿- url: http://gabrielecirulli.github.io/2048/
   name: Original
   author: Gabriele Cirulli
 
@@ -62,10 +62,6 @@
   name: Deterministic 2048
   author: jmfork
 
-- url: http://t2.technion.ac.il/~s7395779/
-  name: 11
-  author: Elazar Gershuni
-
 - url: http://hgentry.github.io/81/
   name: 243
   author: Harrison Gentry
@@ -93,10 +89,6 @@
 - url: http://git.io/2048dbz
   name: 2048DBZ
   author: Gonzalo Gluzman & Matias Garcia Isaia
-
-- url: https://sphere.chronosempire.org.uk/~HEx/8402/
-  name: 8402
-  author: Tom Hargreaves
 
 - url: https://glyphobet.github.io/zero/
   name: zero
@@ -137,10 +129,6 @@
 - url: http://www.matimenkes.com/2048/justinbieber/
   name: 2048 - Justin Bieber
   author: Mati Menkes
-
-- url: http://duarteduarte.tk/2048/
-  name: 2048 - A Mostly Wrong History of Programming Languages
-  author: Duarte Duarte & JP Dias
 
 - url: http://la-oui.ch/troll2048/
   name: troll2048
@@ -276,23 +264,23 @@
 
 - url: http://0x0800.github.io/2048-STARWARS/
   name: Star Wars
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://0x0800.github.io/2048-ARMY/
   name: Army
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://0x0800.github.io/2048-CUPCAKES/
   name: Cupcakes
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://0x0800.github.io/2048-TIFFANY/
   name: Tiffany
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://0x0800.github.io/2048-SUPERHEELS/
   name: Super Heels
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://2048game.org/flappy/
   name: Flappy Thirds
@@ -454,10 +442,6 @@
   name: Isotopic 2048
   author: James Donnelly
 
-- url: http://2048.wiity.net/
-  name: 2048 in French
-  author: wiity.net
-
 - url: http://games.usvsth3m.com/2048/minecraft-edition-837/
   name: Minecraft 2048
   author: coddyer18
@@ -566,10 +550,6 @@
   name: Stochastic 2048
   author: Ena H.
 
-- url: http://silviu.ml/x11
-  name: x^11
-  author: Silviu-Mădălin Lorenţ
-
 - url: http://games.usvsth3m.com/2048/dragonball-enemies-edition/
   name: 2048 DragonBall Enemies Edition
   author: Alessandro Stella
@@ -590,10 +570,6 @@
   name: 2048 Homestuck Edition
   author: Psytew
 
-- url: http://silviu.ml/trips
-  name: Trips
-  author: Silviu-Mădălin Lorenţ
-
 - url: http://mm2718.github.io/2048-linux/
   name: 2048 Linux edition
   author: Matt Mitchell
@@ -606,6 +582,114 @@
   name: 2048 Excel Style (Excel VBA game)
   author: Spreadsheet1.com
 
+- url: http://facelesstheone.github.io/ride2048/
+  name: Ride2048
+  author: Stanislav Komarovsky
+
+- url: http://pyongpyong.com/hangul2048/
+  name: Hangul 2048
+  author: Sangpyo Hong
+
 - url: http://www.kongregate.com/games/random_strangers/511-game-bourgeois-edition
   name: 511 Game - Bourgeois Edition
   author: Arek Paterek
+
+- url: http://erkannarmanli.github.io/2048/
+  name: 2048 Versus
+  author: Erkan Narmanli & Theo Laurent
+
+- url: http://alextaran.net/webgl/TPo2.html
+  name: The Power of Two
+  author: Alexander Taran
+
+- url: http://2048.anilshanbhag.in/fruity/
+  name: Fruity 2048
+  author: FruitSL
+
+- url: http://0x0800.github.io/2048-PANTONE/
+  name: Pantone
+  author: "0x0800"
+
+- url: http://0x0800.github.io/2048-MUNDIAL/
+  name: Mundial
+  author: "0x0800"
+
+- url: http://2048alphabet.com/fibonacci/
+  name: 2584 Fibonacci
+  author: Misho M. Petkovic
+
+- url: http://games.usvsth3m.com/2048/super-macaron-edition/
+  name: Macarons
+  author: Anna
+
+- url: http://constantoduol.github.io/rgb/
+  name: RGB All Cyan
+  author: Constant Oduol
+
+- url: http://inky.github.io/177147/
+  name: 177147
+  author: Liam Cooke
+
+- url: http://i.puthtml.com/inky/2048
+  name: "\xAF\x5C_(\u30C4)_/\xAF"
+  author: Liam Cooke
+
+- url: http://paul.emik.free.fr/2048
+  name: 2048 D00M edition
+  author: Korvus
+
+- url: http://community.usvsth3m.com/2048/1024-edition-1375/
+  name: 2048 - 1024 Edition
+  author: Tomsterley
+
+- url: http://github.com/DamnDam/xl2048
+  name: xl2048 - VBA Excel port of 2048
+  author: Damien Thirion
+
+- url: http://community.usvsth3m.com/2048/rgb-edition-9
+  name: 2048 - RGB Edition
+  author: Lucas Naceri
+
+- url: http://community.usvsth3m.com/2048/1-048-576-edition-3/
+  name: 2048 - 1 048 576 Edition
+  author: Lucas Naceri
+
+- url: http://community.usvsth3m.com/2048/rainbow-edition-478/
+  name: 2048 - Rainbow Edition
+  author: Lucas Naceri
+
+- url: http://community.usvsth3m.com/2048/cie-lab-rainbow-edition/
+  name: 2048 - Cie Lab Rainbow Edition
+  author: Lucas Naceri
+
+- url: http://community.usvsth3m.com/2048/cie-luv-rainbow-edition/
+  name: 2048 - Cie Luv Rainbow Edition
+  author: Lucas Naceri
+
+- url: http://community.usvsth3m.com/2048/prime-numbers-edition-29/
+  name: 2048 - Prime Numbers Edition
+  author: Lucas Naceri
+
+- url: http://viktorahlstrom.github.io/metric2048/
+  name: Metric 2048
+  author: Viktor Ahlström
+
+- url: http://community.usvsth3m.com/2048/android-edition-29/
+  name: 2048 - android version
+  author: Saketh Dahagam
+
+- url: http://run26kimo.github.io/2048/
+  name: 2048 - from the start (來自星星的你)
+  author: run26kimo
+
+- url: https://play.google.com/store/apps/details?id=com.agandeev.matrix2048
+  name: Matrix 2048 for Android
+  author: Pavel Agandeev
+
+- url: http://2048money.com 
+  name: 2048 For Money
+  author: GamyTech
+
+- url: http://www.2048-3d.com/
+  name: 2048-3D Brain Training Game
+  author: Lateral, Inc
