@@ -697,3 +697,7 @@
 - url: http://www.kongregate.com/games/random_strangers/hard-2048-3x3
   name: Hard 2048 3x3
   author: Arek Paterek
+
+- url: http://acterhd.github.io/Ch2048s/
+  name: Chess 2048
+  author: acterhd
