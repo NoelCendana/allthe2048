@@ -85,6 +85,19 @@ hr {
 
 .adsense {
   margin-top: 20px;
+  background: purple;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0px;
+  top: 110px;
+}
+
+@media screen and (max-width: 640px) {
+  .sidebar {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 640px) {
