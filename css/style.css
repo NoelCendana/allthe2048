@@ -93,7 +93,7 @@ hr {
   top: 110px;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 1240px) {
   .sidebar {
     display: none;
   }
