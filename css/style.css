@@ -89,8 +89,9 @@ hr {
 
 .sidebar {
   position: fixed;
-  left: 0px;
+  left: 50%;
   top: 110px;
+  margin-left: -620px;
 }
 
 @media screen and (max-width: 1240px) {
