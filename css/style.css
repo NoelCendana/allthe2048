@@ -10,12 +10,16 @@ html, body {
 }
 
 body {
-  margin: 80px 0;
+  margin: 20px 0 80px 0;
 }
 
 .container {
   width: 600px;
   margin: 0 auto;
+}
+
+.page-header {
+  margin-top: 20px;
 }
 
 h1 {
