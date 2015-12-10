@@ -79,6 +79,10 @@ hr {
   color: #f9f6f2;
 }
 
+.variant.adsense {
+  margin-top: 0;
+}
+
 .contributing {
     margin-top: 50px;
 }
@@ -90,8 +94,15 @@ hr {
 .sidebar {
   position: fixed;
   left: 50%;
-  top: 110px;
+  top: 30px;
+}
+
+.sidebar.left {
   margin-left: -620px;
+}
+
+.sidebar.right {
+  margin-left: 320px;
 }
 
 @media screen and (max-width: 1240px) {

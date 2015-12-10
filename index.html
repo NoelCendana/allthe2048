@@ -13,7 +13,7 @@
 </head>
 <body>
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <div class="adsense sidebar">
+  <div class="adsense sidebar left">
     <ins class="adsbygoogle"
      style="display:inline-block;width:300px;height:600px"
      data-ad-client="ca-pub-7349568082321556"
@@ -22,17 +22,16 @@
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
   </div>
+  <div class="adsense sidebar right">
+    <ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7349568082321556"
+     data-ad-slot="2169228626"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
   <div class="container">
-      <div class="adsense">
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-7349568082321556"
-             data-ad-slot="2906088624"
-             data-ad-format="auto"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-      </div>
     <header class="page-header">
       <h1>ALL THE 2048</h1>
       <p>An updated list of all the 2048 variants out there! (in no particular order)</p>
@@ -45,6 +44,20 @@
     </header>
     <section>
       <ul class="variants-list">
+        <li class="variant">
+          <a href="http://gabrielecirulli.github.io/2048/"><strong>Original</strong></a>
+          by Gabriele Cirulli
+        </li>
+        <li class="variant adsense">
+          <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7349568082321556"
+             data-ad-slot="2906088624"
+             data-ad-format="auto"></ins>
+          <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </li>
         {% for variant in site.data.variants %}
         <li class="variant">
           <a href="{{ variant.url }}"><strong>{{ variant.name }}</strong></a>
@@ -66,16 +79,6 @@
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
       <iframe src="http://ghbtns.com/github-btn.html?user=agelber&repo=allthe2048&type=watch&count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
-      <div class="adsense">
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-7349568082321556"
-             data-ad-slot="8401317023"
-             data-ad-format="auto"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-      </div>
     </footer>
   </div>
   <script>
