@@ -701,3 +701,15 @@
 - url: http://2048-online.com
   name: 2048 Online
   author: Morgan Prive
+
+- url: http://theastronomer.github.io/2147483648/
+  name: 2147483648. And more.
+  author: Noel Cendana
+  
+- url: http://theastronomer.github.io/65536/
+  name: 65536 4x4
+  author: Noel Cendana
+  
+- url: http://theastronomer.github.io/33554432/
+  name: 33554432 5x5
+  author: Noel Cendana  
